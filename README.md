@@ -11,7 +11,8 @@ I love tinkering with new ideas and developing them into full-fledged projects. 
 *   ✉️  You can contact me at [m.magnani@wust.edu](mailto:m.magnani@wust.edu)
 *   🚀  I'm currently working on [WashU Web3 Website](http://web3atwashu.super.site/)
 *   🤝  I'm open to collaborating on interesting projects<a href="https://www.twitter.com/matthewmagnani" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/matthewmagnani?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                  
+                                                                                                                                                src="https://img.shields.io/twitter/follow/matthewmagnani?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills<p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
