@@ -6,11 +6,8 @@ Software Engineer & Web Developer
 
 I love tinkering with new ideas and developing them into full-fledged projects. I also love video editing 🎥, photography 📸, reading 📚, traveling ✈️, and coding for fun 💻. Send me a message if you'd like to chat! I'm always happy to support others and hear different ideas! ✌️
 
-* 🌍  I'm based in Washington D.C.
 * 🖥️  See my portfolio at [matthewmagnani.com](http://matthewmagnani.com)
 * ✉️  You can contact me at [m.magnani@wust.edu](mailto:m.magnani@wust.edu)
-* 🚀  I'm currently working on [WashU Web3 Website](http://web3atwashu.super.site/)
-* 🤝  I'm always open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/matthewmagnani" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/matthewmagnani?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
