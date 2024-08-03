@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matthew Magnani
 =======================================================================================================================================
 
-Software Engineer & Web Developer
----------------------------------
+
 
 I love tinkering with new ideas and developing them into full-fledged projects. I also love video editing 🎥, photography 📸, reading 📚, traveling ✈️, and coding for fun 💻. Send me a message if you'd like to chat! I'm always happy to support others and hear different ideas! ✌️
 
